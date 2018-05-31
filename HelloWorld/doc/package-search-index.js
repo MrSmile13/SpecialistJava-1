@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ru.specialist"},{"l":"ru.specialist.db"}]
